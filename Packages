@@ -1,0 +1,15 @@
+Package: com.cutecut.zma
+Section: Tweaks
+Author: Zamo <zamoassad@gmail.com>
+Maintainer: Zamo <zamoassad@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: mobilesubstrate
+Filename: ./debs/com.cutecut.zma.deb
+Size: 9132
+MD5sum: CE62ADE8DA6F8356777D13E8EACE5DD0
+Depiction: https://zvmox.github.io/repo/depic/?p=com.cutecut.zma
+Description: Cute Cut Pro User : Zma | Pass : Kurd
+Name: Cute Cut Pro
+
+
