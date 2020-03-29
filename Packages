@@ -5,12 +5,12 @@ Maintainer: Zamo <zamoassad@gmail.com>
 Architecture: iphoneos-arm
 Version: 0.0.1
 Depends: mobilesubstrate
-Filename: ./debs/com.cutecut.zma.deb
+Filename: /debs/com.cutecut.zma.deb
 Size: 9132
 MD5sum: ce62ade8da6f8356777d13e8eace5dd0
 SHA1: 3507f976e43e8e1114dc1531ddcc2ba05b212256
 SHA256: 226c43bd8408c59bab99d328941d975e0ce5908a43d33544cef13eebcf4c3b47
-Depiction: https://zvmox.github.io/repo/depic/?p=com.cutecut.zma
+Depiction: https://zvmox.github.io/depic/?p=com.cutecut.zma
 Description: Cute Cut Pro User : Zma | Pass : Kurd
 Name: Cute Cut Pro
 
