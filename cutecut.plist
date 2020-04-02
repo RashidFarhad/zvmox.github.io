@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://www80.zippyshare.com/d/Y80euTdd/35404/392862631.ipa</string>
+                    <string>https://www39.zippyshare.com/d/GDdNkzkV/20460/615996919.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mobivio.cutecut</string>
+                <string>com.smule.sing</string>
                 <key>bundle-version</key>
-                <string>1.8.10</string>
+                <string>8.3.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Cute Cut Pro</string>
+                <string>Cute Cut Pro By Zvmo</string>
             </dict>
         </dict>
     </array>
