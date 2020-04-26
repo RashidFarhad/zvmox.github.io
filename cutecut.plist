@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://download850.mediafire.com/yzt6gd0rhtsg/i8d38lca2sqrben/KineMaster+PROD.ipa</string>
+                    <string>https://download1589.mediafire.com/rff0atsonfig/8so8ftctrhngco6/PicsArt+Gold.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.kinemster.app</string>
+                <string>com.picsart.studio</string>
                 <key>bundle-version</key>
-                <string>4.11.7</string>
+                <string>14.5.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Kinemaster VIP By Zero</string>
+                <string>Picsart Gold By  ﮼زامۆ</string>
             </dict>
         </dict>
     </array>
