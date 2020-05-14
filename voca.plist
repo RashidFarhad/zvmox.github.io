@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://www.dropbox.com/s/8qki1vwidnprl49/decrypted-app%20%284%29.ipa?dl=1</string>
+                    <string>https://www.dropbox.com/s/co93884ey1c4gf6/227814498.ipa?dl=1</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.sofeh.ios.musicstudio</string>
+                <string>com.ikmultimediaus.vocalivefree</string>
                 <key>bundle-version</key>
-                <string>1.1.2</string>
+                <string>3.0.3</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ORG 2020 | Zamo@icloud.com | Telegram : Zvmox  ﮼زامۆ</string>
+                <string>VocaLive 3.0.3 | Zamo@icloud.com | Telegram : Zvmox  ﮼زامۆ</string>
             </dict>
         </dict>
     </array>
