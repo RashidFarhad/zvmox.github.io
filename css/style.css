@@ -119,9 +119,8 @@ margin-left: 100px;
 top: 15%;
 }
 
-#commit{
-
-
+.profile a:hover{
+  color:#101820FF;
 }
 
 #outmit{
@@ -165,6 +164,7 @@ align-items: center;
 .krdp{
     font-family: 'Goran';
 }
+
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
